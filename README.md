@@ -1,7 +1,6 @@
 <img src= "karthick.png">
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Karthick - AI Engineer, Full Stack, Designer" />
 
 <br/>
 
@@ -26,7 +25,7 @@
 
 <br/>
 
-<table>
+<table align="center">
 <tr>
 <td width="58%" valign="top">
 
@@ -45,7 +44,6 @@
 </td>
 <td width="42%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisiskarthick-5&layout=donut&bg_color=ffffff&title_color=dc2626&text_color=374151&border_color=fecaca&langs_count=6" alt="Top Languages" width="100%" />
 
 </td>
 </tr>
@@ -193,38 +191,7 @@ Track, compare and analyze global and Indian markets with live data, interactive
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:dc2626,100:991b1b&height=46&section=header&text=GITHUB%20ANALYTICS&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%" alt="Analytics" />
-</div>
 
-<br/>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=thisiskarthick-5&show_icons=true&bg_color=ffffff&title_color=dc2626&icon_color=dc2626&text_color=374151&border_color=fecaca&count_private=true&rank_icon=github" alt="GitHub Stats" />
-<img height="180" src="https://streak-stats.demolab.com/?user=thisiskarthick-5&background=ffffff&border=fecaca&stroke=fecaca&ring=dc2626&fire=dc2626&currStreakNum=111827&sideNums=111827&currStreakLabel=dc2626&sideLabels=374151&dates=6b7280" alt="Streak Stats" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thisiskarthick-5&hide_border=true&bg_color=ffffff&color=dc2626&line=dc2626&point=111827&area=true&area_color=dc2626&title_color=dc2626&radius=10" width="100%" alt="Contribution Graph" />
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thisiskarthick-5/thisiskarthick-5/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thisiskarthick-5/thisiskarthick-5/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/thisiskarthick-5/thisiskarthick-5/output/github-snake.svg" />
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:dc2626,100:991b1b&height=46&section=header&text=LET'S%20CONNECT&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%" alt="Connect" />
-</div>
-
-<br/>
 
 <div align="center">
 
